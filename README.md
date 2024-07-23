@@ -26,12 +26,12 @@ The Meal Planner App is a desktop application designed to help users plan their 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/meal-planner-app.git
+   [git clone https://github.com/Mr-Abhishek15/Meal_Planner_App.git]
 Navigate to the Project Directory:
 
 bash
 Copy code
-cd meal-planner-app
+       [cd meal-planner-app]
 Install Dependencies:
 
 Ensure you have Python installed, then install the required packages:
@@ -39,18 +39,16 @@ Ensure you have Python installed, then install the required packages:
 bash
 
 Copy code
-pip install PyQt5
+[pip install PyQt5]
 
 
 Usage
 Run the Application:
-
 Navigate to the project directory and run the application:
 
 bash
-
 Copy code
-python main.py
+[python main.py]
 
 Using the Application:
 
