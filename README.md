@@ -37,16 +37,21 @@ Install Dependencies:
 Ensure you have Python installed, then install the required packages:
 
 bash
+
 Copy code
 pip install PyQt5
+
+
 Usage
 Run the Application:
 
 Navigate to the project directory and run the application:
 
 bash
+
 Copy code
 python main.py
+
 Using the Application:
 
 Welcome Page: Enter your dietary preferences and available ingredients.
